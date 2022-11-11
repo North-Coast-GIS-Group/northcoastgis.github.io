@@ -1,3 +1,7 @@
-![Meeting Announcement](images/meeting.jpg)
+# northcoastgis.github.io
 
-You can also send us email: <a href="mailto:info@northcoastgis.group">info@northcoastgis.group</a>
+This repository contains the Github Pages "publishing source" for
+https://northcoastgis.group
+
+It's in the folder called "source".
+
