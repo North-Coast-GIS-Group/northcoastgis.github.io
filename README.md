@@ -1,2 +1,2 @@
-# northcoastgisgroup.github.io
-Github Pages for the web site
+# northcoastgis.github.io
+Github Pages for the web site https://northcoastgis.group
