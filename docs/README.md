@@ -22,7 +22,7 @@ At the moment it's using ["Pages"](https://pages.github.com/) and its
 [hosted at Github.com](https://github.com/North-Coast-GIS-Group/northcoastgis.github.io.git)
 and it's pretty easy to work with. Just takes time. At the moment I need to find the right
 [Pages theme](https://pages.github.com/themes/) to use. The current one is called "minimal".
---[Brian Wilson](mailto:brian@wildsong.biz)
+--[Brian Wilson](mailto:brian@northcoastgis.group)
 
 ## 11-16-22
 
