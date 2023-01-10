@@ -1,3 +1,11 @@
+## 01-10-23
+
+**Welcome to the new year!**
+
+I have set up the Slack workspace, you can join by going to this link:
+[north-coast-gis.slack.com](https://north-coast-gis.slack.com/x-p4596896296727-4613901481540-4624175449649/welcome/invite_members?utm_medium=email&utm_source=confirmation-new-creator)
+--Brian
+
 ## 11-20-22
 
 Thanks everyone for making the first meeting a big success!
